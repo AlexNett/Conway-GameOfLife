@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Conway's Game of Life.cpp
+c:\users\net\desktop\conway's game of life\conway's game of life\conway's game of life.cpp(73): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\net\desktop\conway's game of life\conway's game of life\conway's game of life.cpp(192): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  Conway's Game of Life.vcxproj -> C:\Users\Net\Desktop\Conway's Game of Life\Debug\Conway's Game of Life.exe
